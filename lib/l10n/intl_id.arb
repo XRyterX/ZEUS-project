@@ -1,0 +1,124 @@
+{
+    "@@locale": "intl_id",
+    "@@last_modified": "2023-12-27T23:32:04.805546",
+    "helloWorld": "Halo Dunia",
+    "@helloWorld": {
+        "description": "Kata Halo Dunia",
+        "type": "text",
+        "placeholders": {}
+    },
+    "search": "Pencarian",
+    "@search": {
+        "description": "Pencarian",
+        "type": "text",
+        "placeholders": {}
+    },
+    "descSearch": "Coba fitur pencarian untuk menelusuri film yang kamu pikirkan",
+    "@descSearch": {
+        "description": "Coba fitur pencarian untuk menelusuri film yang kamu pikirkan",
+        "type": "text",
+        "placeholders": {}
+    },
+    "watchlist": "daftar pantauan",
+    "@watchlist": {
+        "description": "daftar pantauan",
+        "type": "text",
+        "placeholders": {}
+    },
+    "descWatchlist": "film favorit kosong ?\n coba fitur favorit di film detail dengan menambahkan pada tombol film favorit",
+    "@descWatchlist": {
+        "description": "film favorit kosong ?\n coba fitur favorit di film detail untuk menambahkan pada tombol film favorit",
+        "type": "text",
+        "placeholders": {}
+    },
+    "settings": "Pengaturan",
+    "@settings": {
+        "description": "Pengaturan",
+        "type": "text",
+        "placeholders": {}
+    },
+    "languangeWords": "Bahasa",
+    "@languangeWords": {
+        "description": "Bahasa",
+        "type": "text",
+        "placeholders": {}
+    },
+    "profile": "Profil",
+    "@profile": {
+        "description": "Profil",
+        "type": "text",
+        "placeholders": {}
+    },
+    "trending": "Sedang Tren",
+    "@trending": {
+        "description": "Sedang Tren",
+        "type": "text",
+        "placeholders": {}
+    },
+    "recommended": "Rekomendasi",
+    "@recommended": {
+        "description": "Rekomendasi",
+        "type": "text",
+        "placeholders": {}
+    },
+    "nowPlaying": "Sedang Tayang",
+    "@nowPlaying": {
+        "description": "Sedang Tayang",
+        "type": "text",
+        "placeholders": {}
+    },
+    "favorite": "Tambah",
+    "@favorite": {
+        "description": "Tambah",
+        "type": "text",
+        "placeholders": {}
+    },
+    "moreInfo": "Informasi Lanjut",
+    "@moreInfo": {
+        "description": "Informasi Lanjut",
+        "type": "text",
+        "placeholders": {}
+    },
+    "rating": "Nilai Film",
+    "@rating": {
+        "description": "Nilai Film",
+        "type": "text",
+        "placeholders": {}
+    },
+    "voting": "Kontribusi",
+    "@voting": {
+        "description": "Kontribusi",
+        "type": "text",
+        "placeholders": {}
+    },
+    "popularity": "Popularitas",
+    "@popularity": {
+        "description": "Popularitas",
+        "type": "text",
+        "placeholders": {}
+    },
+    "ratedFor": "Dinilai Untuk",
+    "@ratedFor": {
+        "description": "Dinilai Untuk",
+        "type": "text",
+        "placeholders": {}
+    },
+    "premiumPier": "Nonton Iklan",
+    "@premiumPier": {
+        "description": "Nonton Iklan",
+        "type": "text",
+        "placeholders": {}
+    },
+    "continueWatchAds": "Pengalaman sponsor iklan gratis. Tonton iklan Video singkat untuk Menghapus semua iklan untuk iklan terbuka kecuali Anda menutup aplikasi secara permanen",
+    "@continueWatchAds": {
+        "description": "Pengalaman sponsor iklan gratis. Tonton iklan Video singkat untuk Menghapus semua iklan untuk iklan terbuka kecuali Anda menutup aplikasi secara permanen",
+        "type": "text",
+        "placeholders": {}
+    },
+    "about": "Tentang Kami",
+    "@about": {
+        "description": "Tentang Kami",
+        "type": "text",
+        "placeholders": {}
+    }
+}

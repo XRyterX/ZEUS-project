@@ -1,0 +1,123 @@
+{
+    "@@last_modified": "2019-11-17T16:07:23.398925",
+    "helloWorld": "Hello World",
+    "@helloWorld": {
+        "description": "Word Hello World",
+        "type": "text",
+        "placeholders": {}
+    },
+    "search": "Search",
+    "@search": {
+        "description": "Search",
+        "type": "text",
+        "placeholders": {}
+    },
+    "descSearch": "Try the search feature to browse the movies you have in mind",
+    "@descSearch": {
+        "description": "Try the search feature to browse the movies you have in mind",
+        "type": "text",
+        "placeholders": {}
+    },
+    "watchlist": "Watchlist",
+    "@watchlist": {
+        "description": "Watchlist",
+        "type": "text",
+        "placeholders": {}
+    },
+    "descWatchlist": "favorites movie is empty ?\n try feature favorites in the detail movie add movie with button favorites",
+    "@descWatchlist": {
+        "description": "favorites movie is empty ?\n try feature favorites in the detail movie if you like add movie with button favorites",
+        "type": "text",
+        "placeholders": {}
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Settings",
+        "type": "text",
+        "placeholders": {}
+    },
+    "languangeWords": "Languange",
+    "@languangeWords": {
+        "description": "Languange",
+        "type": "text",
+        "placeholders": {}
+    },
+    "profile": "Profile",
+    "@profile": {
+        "description": "Profile",
+        "type": "text",
+        "placeholders": {}
+    },
+    "trending": "Trending",
+    "@trending": {
+        "description": "Trending",
+        "type": "text",
+        "placeholders": {}
+    },
+    "recommended": "Recommended",
+    "@recommended": {
+        "description": "Recommended",
+        "type": "text",
+        "placeholders": {}
+    },
+    "nowPlaying": "Now Playing",
+    "@nowPlaying": {
+        "description": "Now Playing",
+        "type": "text",
+        "placeholders": {}
+    },
+    "favorite": "Add",
+    "@favorite": {
+        "description": "Add",
+        "type": "text",
+        "placeholders": {}
+    },
+    "moreInfo": "More Information",
+    "@moreInfo": {
+        "description": "More Information",
+        "type": "text",
+        "placeholders": {}
+    },
+    "rating": "Rating",
+    "@rating": {
+        "description": "Rating",
+        "type": "text",
+        "placeholders": {}
+    },
+    "voting": "Voting",
+    "@voting": {
+        "description": "Voting",
+        "type": "text",
+        "placeholders": {}
+    },
+    "popularity": "Popularity",
+    "@popularity": {
+        "description": "Popularity",
+        "type": "text",
+        "placeholders": {}
+    },
+    "ratedFor": "Rated For",
+    "@ratedFor": {
+        "description": "Rated For",
+        "type": "text",
+        "placeholders": {}
+    },
+    "premiumPier": "Watch Ads",
+    "@premiumPier": {
+        "description": "Watch Ads",
+        "type": "text",
+        "placeholders": {}
+    },
+    "continueWatchAds": "Experience spons ad free. Watch a short Video ad to Remove all the ads for open ads except you close app permanent",
+    "@continueWatchAds": {
+        "description": "Experience spons ad free. Watch a short Video ad to Remove all the ads for open ads except you close app permanent",
+        "type": "text",
+        "placeholders": {}
+    },
+    "about": "About",
+    "@about": {
+        "description": "About",
+        "type": "text",
+        "placeholders": {}
+    }
+}
